@@ -1,2 +1,2 @@
 Car Parking DatabaseSystem
-By SQL
+By phpMyAdmin
